@@ -1,7 +1,4 @@
 # PORTFOLIO-SUMMARY
-A summary of my projects
-
-Welcome!
 
 
 # IBM DATA SCIENCE PROFESSIONAL CERTIFICATE
