@@ -6,9 +6,6 @@
 
 
 
-|Project      |Description.       
-|             |
-|
-|
-|
-|
+|Project      |Description    |Skills|     
+|-------------| --------------|      |
+
