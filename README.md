@@ -15,4 +15,4 @@
 ## Data Visualization
 |Project     |Description    |Skills|     
 |------------| --------------|-------|
-|Data Science: Yah or Nah|There is no doubt that data science is a broad field, and new learners are sometimes confused on where to start from. In this project we analyze and visualize a survey conducted to guage audience interest in different data science topics. |Advanced visualization tools and libraries (Matplotlib, seaborn). Visualizing geospatial data and libraries(Folium) |
+|Data: Yah or Nah|There is no doubt that data science is a broad field, and new learners are sometimes confused on where to start from. In this project we analyze and visualize a survey conducted to guage audience interest in different data science topics. |Advanced visualization tools and libraries (Matplotlib, seaborn). Visualizing geospatial data and libraries(Folium) |
